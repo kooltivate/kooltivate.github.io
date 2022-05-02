@@ -44,7 +44,9 @@ h1 {
     width: 100%;
 }
 
-.btn-group>a {}
+.btn-group a:hover {
+    text-decoration: none;
+}
 
 .btn-group .btn {
     background-color: #173F5F;
@@ -59,7 +61,6 @@ h1 {
 
 .btn-group .btn:hover {
     background-color: #5499C7;
-    text-decoration: none;
 }
 
 .divider {
