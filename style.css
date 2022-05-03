@@ -61,7 +61,7 @@ h1 {
 }
 
 .btn-group .btn {
-    /* background-color: #173F5F; */
+    background-color: #173F5F;
     color: white;
     font-weight: 300;
     width: 100%;
@@ -72,22 +72,6 @@ h1 {
 }
 
 .btn-group .btn:hover {
-    background-color: #5499C7;
-}
-
-.btn1 {
-    background-color: #006eae;
-}
-
-.btn2 {
-    background-color: #006eae;
-}
-
-.btn3 {
-    background-color: #006eae;
-}
-
-.btn4 {
     background-color: #006eae;
 }
 
