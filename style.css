@@ -71,6 +71,22 @@ h1 {
     background-color: #5499C7;
 }
 
+.btn1 {
+    background-color: #006eae;
+}
+
+.btn2 {
+    background-color: #56a245;
+}
+
+.btn3 {
+    background-color: #f08e37;
+}
+
+.btn4 {
+    background-color: #e42d2c;
+}
+
 .divider {
     height: 2px;
     width: 100%;
