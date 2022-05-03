@@ -52,6 +52,10 @@ h1 {
     width: 100%;
 }
 
+.btn-group a {
+    text-decoration: none;
+}
+
 .btn-group a:hover {
     text-decoration: none;
 }
