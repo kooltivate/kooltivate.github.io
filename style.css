@@ -75,3 +75,7 @@ footer {
     padding-top: 10px;
     line-height: 1.4rem;
 }
+
+footer a:hover {
+    color: #173F5F;
+}
