@@ -88,8 +88,12 @@ footer {
     line-height: 1.4rem;
 }
 
+footer a {
+    color: #173F5F
+}
+
 footer a:hover {
-    color: #173F5F;
+    color: #006eae;
 }
 
 .kcolor1 {
