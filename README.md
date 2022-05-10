@@ -1,3 +1,3 @@
-# Página Web de Juan Calderón
+# Página Web de Kooltivate
 
 Enlaces a los lugares donde puedes encontrar a Kooltivate.
